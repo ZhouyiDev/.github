@@ -1,16 +1,15 @@
-## Hi there 👋
+### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=!Hi%20I'm%20Zhouyi!&font=Doto" /> 👋
 
-<!--
-**ZhouyiStudio/ZhouyiStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ZhouyiStudio&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    align="right" />
+</picture>
 
-Here are some ideas to get you started:
+![Hi!](https://komarev.com/ghpvc/?username=YaoZhouyi&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**于人间烟火处，独守一隅清欢。**
+
+- 前往我的 [博客](https://zhouyistudio.cyou/) 了解更多
+- 通过 [邮箱](mailto:zy@zhouyistudio.cyou) 或 [Telegram](https://t.me/Zhouyi2013) 与我交流
+- 关注我的 [X](https://x.com/Zhouyi2013)、[Discord频道](https://discord.gg/x37WCauDGX) 或 [Telegram 频道](https://t.me/ByZhouyi)
+
