@@ -5,7 +5,7 @@
     align="right" />
 </picture>
 
-![Hi!](https://komarev.com/ghpvc/?username=YaoZhouyi&style=for-the-badge)
+![Hi!](https://komarev.com/ghpvc/?username=YaoZhouyi&style=for-the-badge&color=red)
 
 **于人间烟火处，独守一隅清欢。**
 
