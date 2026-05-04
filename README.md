@@ -9,7 +9,7 @@
 
 **于人间烟火处，独守一隅清欢。**
 
-- 前往我的 [博客](https://zhouyistudio.cyou/) 了解更多
+- 前往我的 [个人主页](https://zhouyistudio.cyou/) 或 [博客](https://20130604.xyz) 了解更多
 - 通过 [邮箱](mailto:zy@zhouyistudio.cyou) 或 [Telegram](https://t.me/Zhouyi2013) 与我交流
 - 关注我的 [X](https://x.com/Zhouyi2013)、[Discord频道](https://discord.gg/x37WCauDGX) 或 [Telegram 频道](https://t.me/ByZhouyi)
 
